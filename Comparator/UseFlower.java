@@ -1,4 +1,4 @@
-package javaCourcesHomeworks.comparator;
+package comparator;
 
 import java.awt.*;
 import java.util.ArrayList;

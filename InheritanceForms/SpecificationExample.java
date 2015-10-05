@@ -1,4 +1,4 @@
-package javaCourcesHomeworks;
+package inheritanceForms;
 
 
 public class SpecificationExample {

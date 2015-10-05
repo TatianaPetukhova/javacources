@@ -1,4 +1,4 @@
-package javaCourcesHomeworks;
+package myList;
 
 
 public class UseList {

@@ -1,4 +1,4 @@
-package javaCourcesHomeworks;
+package flower-girl;
 
 public class Camomile extends Flower {
 

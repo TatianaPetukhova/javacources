@@ -1,4 +1,4 @@
-package javaCourcesHomeworks;
+package flower-girl;
 
 import java.util.ArrayList;
 import java.util.List;

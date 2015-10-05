@@ -1,4 +1,4 @@
-package javaCourcesHomeworks;
+package inheritanceForms;
 
 public class SpecializationExample {
     public class HomeAppliances {

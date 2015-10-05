@@ -1,4 +1,4 @@
-package javaCourcesHomeworks;
+package myStack;
 
 /**
  * Created by tanki_000 on 10/4/2015.
